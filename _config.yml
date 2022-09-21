@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: The Mosaic of a Man
+title: "The Mosaic of a Man"
 
 # Your name to show in the footer
-author: Shea Schmidt
+author: "Shea Schmidt"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -58,7 +58,7 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: www.linkedin.com/in/shea-schmidt
+   linkedin: "www.linkedin.com/in/shea-schmidt"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
