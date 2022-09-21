@@ -13,7 +13,7 @@
 title: The Mosaic of a Man
 
 # Short description of your site
-description: Undergraduate Aerospace Engineer
+# description: Undergraduate Aerospace Engineer
 
 # Your name to show in the footer
 author: Shea Schmidt
@@ -163,7 +163,7 @@ page-img: "/assets/img/beautiful-landscape-of-rocky-mountains-national-park-colo
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-LNQH05ZE6N"
+gtag: G-LNQH05ZE6N
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: "4082749382"
