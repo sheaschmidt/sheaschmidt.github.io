@@ -10,10 +10,13 @@
 ############################
 
 # Name of website
-title: "The Mosaic of a Man"
+title: The Mosaic of a Man
+
+# Short description of your site
+description: Undergraduate Aerospace Engineer
 
 # Your name to show in the footer
-author: "Shea Schmidt"
+author: Shea Schmidt
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,13 +55,13 @@ social-network-links:
   email: "sheaschmidt@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
- # github: daattali
+  github: sheaschmidt
  # twitter: daattali
  # patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: "www.linkedin.com/in/shea-schmidt"
+   linkedin: www.linkedin.com/in/shea-schmidt
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
