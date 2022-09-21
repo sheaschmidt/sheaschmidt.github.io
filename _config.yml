@@ -26,7 +26,7 @@ navbar-links:
   About Me: "Exegesis"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Resume: "https://1drv.ms/w/s!AnKzaSB8DKcMlyGtPsc75fm9zycG?e=jXRcui"
   Author's home: "https://deanattali.com"
 
 ################
@@ -52,10 +52,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sheaschmidt@outlook.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+   email: "sheaschmidt@outlook.com"
+   rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
-  github: sheaschmidt
+   github: sheaschmidt
  # twitter: daattali
  # patreon: DeanAttali
  # youtube: c/daattali
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Feed Description
 
 ###########################
 # --- General options --- #
@@ -90,8 +90,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
@@ -163,7 +163,7 @@ page-img: "/assets/img/beautiful-landscape-of-rocky-mountains-national-park-colo
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: G-LNQH05ZE6N
+gtag: "G-LNQH05ZE6N"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: "4082749382"
