@@ -61,7 +61,7 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: www.linkedin.com/in/shea-schmidt
+   linkedin: "www.linkedin.com/in/shea-schmidt"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -163,7 +163,7 @@ page-img: "/assets/img/beautiful-landscape-of-rocky-mountains-national-park-colo
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-LNQH05ZE6N"
+gtag: G-LNQH05ZE6N
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: "4082749382"
