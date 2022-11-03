@@ -131,7 +131,7 @@ navbar-var-length: false
 navbar-col: "#999999"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#646464"
 text-col: "#fff7ed"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -145,7 +145,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "assets/img/T3ZecCbw (2).jpeg"
+page-img: "assets/img/T3ZecCbw(2).jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
