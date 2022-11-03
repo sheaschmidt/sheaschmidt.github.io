@@ -25,9 +25,9 @@ author: Shea Schmidt
 navbar-links:
   About Me: "Exegesis"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Resume: "https://1drv.ms/w/s!AnKzaSB8DKcMlyGtPsc75fm9zycG?e=jXRcui"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
