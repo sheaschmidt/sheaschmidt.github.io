@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: The Mosaic of a Man
+title: Home
 
 # Short description of your site
 # description: This portfolio is designed to be a manifestation, in the vicinity of art, of the dreams and ideas impressed by my mind's hand.
@@ -23,9 +23,9 @@ author: Shea Schmidt
 ###############################################
 
 navbar-links:
-  About Me: "Exegesis"
-  Resources:
-   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #About Me: "Exegesis"
+  About Me:
+   # - BeautifulAbout MJekyll: "https://beautifuljekyll.com"
     - Resume: "assets/img/ResumeV18.pdf"
   # Author's home: "https://deanattali.com"
 
