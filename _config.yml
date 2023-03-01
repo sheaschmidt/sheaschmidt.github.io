@@ -13,7 +13,7 @@
 title: Home
 
 # Short description of your site
-description: John 9:39 'And Jesus said, "For judgement I have come into this world, that those who do not see may see, and that those who see may be made blind."'
+description: John 9:39 And Jesus said, For judgement I have come into this world, that those who do not see may see, and that those who see may be made blind.
 
 # Your name to show in the footer
 author: Shea M. Schmidt
@@ -62,7 +62,7 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: "www.linkedin.com/in/shea-schmidt"
+   linkedin: www.linkedin.com/in/shea-schmidt
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -121,7 +121,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineering"
 
 ######################################
 # --- Colours / background image --- #
