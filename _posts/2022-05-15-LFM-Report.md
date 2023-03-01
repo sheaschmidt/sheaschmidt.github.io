@@ -2,6 +2,7 @@
 layout: post
 title: HYDROGEN PEROXIDE LIQUID-FUEL MOTOR DESIGN AND TESTING REPORT
 subtitle: High School Capstone Project
+thumbnail-img: /assets/img/rocketpic.png
 tags: [Portfolio]
 ---
 
