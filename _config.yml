@@ -24,10 +24,10 @@ author: Shea Schmidt
 
 # navbar-links:
   #About Me: "Exegesis"
-   Resume: "assets/img/Shea_Schmidt_Resume_2023.pdf"
-  # About Me:
+  # Resume: "assets/img/Shea_Schmidt_Resume_2023.pdf"
+   Resume:
    # - BeautifulAbout MJekyll: "https://beautifuljekyll.com"
-    #- Resume: "assets/img/Shea_Schmidt_Resume_2023.pdf"
+    - SheaSchmidtResume2023: "assets/img/Shea_Schmidt_Resume_2023.pdf"
   # Author's home: "https://deanattali.com"
 
 ################
