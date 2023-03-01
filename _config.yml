@@ -22,11 +22,11 @@ author: Shea Schmidt
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+# navbar-links:
   #About Me: "Exegesis"
-  About Me:
+  # About Me:
    # - BeautifulAbout MJekyll: "https://beautifuljekyll.com"
-    - Resume: "assets/img/Shea_Schmidt_Resume_2023.pdf"
+   # - Resume: "assets/img/Shea_Schmidt_Resume_2023.pdf"
   # Author's home: "https://deanattali.com"
 
 ################
