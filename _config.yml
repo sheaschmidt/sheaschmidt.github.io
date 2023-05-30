@@ -121,7 +121,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineering"
+keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineering,Aerospace engineering,inventors,entrepenuers,scientists"
 
 ######################################
 # --- Colours / background image --- #
@@ -129,15 +129,15 @@ keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineeri
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#999999"
-navbar-text-col: "#000000"
-navbar-border-col: "#DDDDDD"
-page-col: "#646464"
-text-col: "#fff7ed"
+navbar-col: "#333E48"
+navbar-text-col: "#9dabb7"
+navbar-border-col: "#333E48"
+page-col: "#333E48"
+text-col: "#9dabb7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#999999"
-footer-text-col: "#000000"
+footer-col: "#333E48"
+footer-text-col: "#9dabb7"
 footer-link-col: "#000000"
 footer-hover-col: "#0085A1"
 
@@ -146,7 +146,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "assets/img/background1.jpg"
+page-img: "assets/img/background3.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
