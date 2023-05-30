@@ -132,7 +132,7 @@ keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineeri
 navbar-col: "#333E48"
 navbar-text-col: "#9dabb7"
 navbar-border-col: "#333E48"
-page-col: "#333E48"
+page-col: "#000000"
 text-col: "#9dabb7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -146,7 +146,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "assets/img/background4.jpg"
+#page-img: "assets/img/background4.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
