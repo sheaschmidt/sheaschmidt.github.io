@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Generatim Discite Cultus
+subtitle: “Learn each field of study according to its kind.” – Georgics Virgil II
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Engineering stands to be one of several fundamental passions of mine due in part to its nature being to demonstrate understanding. To incarnate creative impulses through technology and demonstration to benefits others and self is truly the only meaningful and truly communicable mastery of a given principle. 
+I seek to find roles in which I may endeavor in creative and innovative capacities greater than what I can accomplish with but only my own resources and knowledge.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Engineering stands to be one of several fundamental passions of mine due in part to its nature being to demonstrate understanding. To incarnate creative impulses through technology and demonstration to benefits others and self is truly the only meaningful and truly communicable mastery of a given principle. 
 
-What else do you need?
+### Some Fun Things About Me You Will Not Find on My Resume
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I love backpacking and have hiked, climbed, scrounged, and nearly died all throughout various mountain ranges in Colorado, some in Arizona, and some in New Mexico.
+- I have thourougly loved the sport of skiing ever since I was four years old and it is by far the greatest physical event I participate in by being by far the closest I have yet come to human-powered flight.
