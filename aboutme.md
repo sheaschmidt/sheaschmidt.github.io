@@ -12,4 +12,4 @@ Engineering stands to be one of several fundamental passions of mine due in part
 ### Some Fun Things About Me You Will Not Find on My Resume
 
 - I love backpacking and have hiked, climbed, scrounged, and nearly died all throughout various mountain ranges in Colorado, some in Arizona, and some in New Mexico.
-- I have thourougly loved the sport of skiing ever since I was four years old and it is by far the greatest physical event I participate in by being by far the closest I have yet come to human-powered flight.
+- I have thourougly loved the sport of skiing ever since I was four years old and it is by far the greatest physical event I participate in as it is the best approximation of human-powered flight I am aware of.
