@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPRING-MASS-DAMPER DIFFERENTIAL SYSTEM WITH VARIABLE COEFFICIENTS
-subtitle: College of Engineering Term Report
+subtitle: MA345 - Ordinary Differential Equations
 thumbnail-img: /assets/img/mathpic.png
 tags: [Portfolio]
 ---
