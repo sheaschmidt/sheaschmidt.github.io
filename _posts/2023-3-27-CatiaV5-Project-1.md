@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CATIA V5 STRUCTURAL OPTIMIZATION
-subtitle: EGR200 - Cmptr Aided Dsgn for Aerospce Strctrs - Project 1
+subtitle: EGR200 - Computer Aided Conceptual Design for Aerospace Systems
 thumbnail-img: /assets/img/tierod.png
 tags: [Portfolio]
 ---
