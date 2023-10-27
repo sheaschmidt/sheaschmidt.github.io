@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CATIA V5 AIRCRAFT RENDERING
-subtitle: EGR200 - Computer Aided Conceptual Design for Aerospace Systems
+subtitle: EGR200 - CAD for Conceptual Aerospace Systems 
 thumbnail-img: /assets/img/CatiaProject2Thumbnail.png
 tags: [Portfolio]
 ---
