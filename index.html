@@ -1,8 +1,9 @@
 ---
 layout: home
 title: Shea M. Schmidt
-subtitle: John 9:39, "And Jesus said, "For judgement I have come into this world, that those who do not see may see, and that those who see may be made blind.""
+subtitle: John 9:39, "And Jesus said, "For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind.""
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,10 +12,15 @@ subtitle: John 9:39, "And Jesus said, "For judgement I have come into this world
     <title>{{ page.title }}</title>
     <style>
         /* CSS rule to target just the title line */
-        h1 {
-            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;            
+        h1, .subtitle {
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* Change the font family */
             font-size: 24px; /* Change the font size */
             /* Add any other styling you want for the title line */
+        }
+        /* CSS rule to target just the subtitle */
+        .subtitle {
+            font-size: 12px; /* Change the font size for the subtitle */
+            /* Add any other styling you want for the subtitle */
         }
     </style>
 </head>
