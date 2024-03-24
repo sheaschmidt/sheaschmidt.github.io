@@ -130,24 +130,24 @@ keywords: "shea,schmidt,Shea,Schmidt,NoEntry,No Entry,Aerospace,Crypto,Engineeri
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#333E48"
-navbar-text-col: "#9dabb7"
-navbar-border-col: "#333E48"
-page-col: "#000000"
-text-col: "#9dabb7"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#333E48"
-footer-text-col: "#9dabb7"
-footer-link-col: "#000000"
-footer-hover-col: "#0085A1"
+navbar-col: "#F8F8F8"
+navbar-text-col: "#0B0909"
+navbar-border-col: "#0B0909"
+page-col: "#F8F8F8"
+text-col: "#0B0909"
+link-col: "#414141"
+hover-col: "#414141"
+footer-col: "#F8F8F8"
+footer-text-col: "#0B0909"
+footer-link-col: "#414141"
+footer-hover-col: "#414141"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "assets/img/background5.jpg"
+#page-img: "assets/img/background5.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
