@@ -2,6 +2,35 @@
 layout: page
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        /* CSS rule to target the page title */
+        h1 {
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* Change the font family */
+            font-size: 24px; /* Change the font size */
+            /* Add any other styling you want for the title */
+        }
+        /* CSS rule to target the page subtitle */
+        h2 {
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* Change the font family */
+            font-size: 18px; /* Change the font size */
+            /* Add any other styling you want for the subtitle */
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <h2>{{ page.subtitle }}</h2>
+    {% endif %}
+
+    {{ content }}
+  
 <style>
   .post-title {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* Change the font family */
@@ -11,7 +40,7 @@ layout: page
 
   .post-subtitle {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* Change the font family */
-    font-size: 12px; /* Change the font size */
+    font-size: 16px; /* Change the font size */
     /* Add any other styling you want for the subtitle */
   }
 </style>
