@@ -1,0 +1,28 @@
+---
+layout: post
+title: Optimization and Optimal Control
+subtitle: MA433 - Optimization 
+thumbnail-img: /assets/img/readingcover.jpg
+tags: [Portfolio]
+
+attachments: ma433
+---
+
+{% assign folder = page.attachments %}
+
+{% if folder %}
+<hr>
+
+## Downloads
+
+<ul>
+{% for file in site.static_files %}
+    {% if file.path contains folder %}
+    <li>
+        <a href="{{ file.path }}">{{ file.name }}</a>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+{% endif %}
