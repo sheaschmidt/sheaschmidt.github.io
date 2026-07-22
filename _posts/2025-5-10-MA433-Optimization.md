@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimization and Optimal Control
+title: OPTIMAL CONTROL
 subtitle: MA433 - Optimization 
 thumbnail-img: /assets/img/Screenshot_20210629-183415_Instagram.jpg
 tags: [Portfolio]
